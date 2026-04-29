@@ -1,0 +1,4 @@
+Metoda,Sugerowane k,Ground Truth k,ARI,NMI
+Elbow Method,4,7,0.4375,0.5958
+Silhouette Score,3,7,0.2967,0.4832
+Gap Statistic,5,7,0.5472,0.6808
